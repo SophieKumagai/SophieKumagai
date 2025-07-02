@@ -23,7 +23,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-{sophie.satie20@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{sophie.satie20@gmail.com})
-[![Linkedin: Sophie](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophie-kumagai/)](https://www.linkedin.com/in/sophie-kumagai/)
+[![Linkedin: Sophie](https://img.shields.io/badge/-sophiekumagai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophie-kumagai/)](https://www.linkedin.com/in/sophie-kumagai/)
 
 ![SophieKumagai GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiekumagai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br><br>
 
