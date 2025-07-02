@@ -10,7 +10,7 @@
 Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
 ## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,kotlin)](https://skillicons.dev)
 
 ## 🧰 Frameworks: 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,flask,spring,fastapi,flutter)](https://skillicons.dev)
