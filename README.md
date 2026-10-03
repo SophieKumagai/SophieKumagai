@@ -1,31 +1,41 @@
-# 🌻 Oii, eu sou a Sophie!
+# 🌻 Hi, I'm Sophie!
 
-## 💼 Perfil Profissional
+Passionate about technology and building solutions that create real impact. 🚀
 
-- 💻 Estudante de Programação
-- 🎓 Cursando Ensino Médio Técnico em Desenvolvimento/ Instituto J&F
+## 💼 Professional Profile
 
-## 🚀 Habilidades
+- 💻 Junior IT Analyst at JBS, developing mobile apps (Kotlin) and web applications (React, TypeScript, and Next.js)
+- 🎓 Studying Science and Technology at UFABC
+- 🌱 Instituto J&F Tech participant since 2023
+- 🤖 Former member of GEDAI (Artificial Intelligence Study and Development Group)
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+## 🚀 Skills
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,kotlin)](https://skillicons.dev)
+Some of the languages and technologies I already work with or am currently studying:
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flask,spring,fastapi,flutter,nestjs)](https://skillicons.dev)
+### 👩‍💻 Languages
 
-## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo,postgres,redis,firebase)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css,kotlin)](https://skillicons.dev)
 
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,azure,figma,notion,postman,prisma,tailwind,materialui,androidstudio)](https://skillicons.dev)<br><br>
+### 🧰 Frameworks
 
-## 📫 Contato
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,vue,flask,spring,fastapi,flutter,nestjs)](https://skillicons.dev)
 
-![Gmail Badge](https://img.shields.io/badge/-{sophie.satie20@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{sophie.satie20@gmail.com})
-[![Linkedin: Sophie](https://img.shields.io/badge/-sophiekumagai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophie-kumagai/)](https://www.linkedin.com/in/sophie-kumagai/)
+### 🗄️ Databases
 
-![SophieKumagai GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiekumagai&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br><br>
+[![Databases](https://skillicons.dev/icons?i=mysql,mongo,postgres,redis,firebase)](https://skillicons.dev)
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
+### ⚙️ Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,aws,azure,figma,notion,postman,prisma,tailwind,materialui,androidstudio)](https://skillicons.dev)
+
+## 📊 Stats
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiekumagai&theme=dark&layout=compact&hide_border=false&count_private=true)
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/-sophie.satie20@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:sophie.satie20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-sophiekumagai-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sophie-kumagai/)
+
+Feel free to reach out to talk about collaborations, projects, or anything related to programming. I'm looking forward to hearing from you! 😊
